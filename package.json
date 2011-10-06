@@ -1,0 +1,19 @@
+{
+    "name"          : "mobile-monkeypatches",
+    "version"       : "0.0.1",
+    "main"          : "./lib/nodejs.js",
+    "description"   : "Monkey patches to ease mobile web app development",
+    "keywords"      : ["mobile", "hacks", "sencha"],
+    "url"           : "http://github.com/rubenv/mobile-monkeypatches",
+    "repositories"  : [
+        {
+            "type" : "git",
+            "url"  : "git://github.com/rubenv/mobile-monkeypatches.git" 
+        } 
+    ],
+    "author"        : "Ruben Vermeersch <ruben@savanne.be>",
+    "contributors"  : [],
+    "licenses"      : ["MIT"],
+    "dependencies"  : [],
+    "engines"       : { "node": ">=0.4.0" }
+}
