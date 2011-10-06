@@ -5,6 +5,11 @@
   Developed by Flow Pilots: http://www.flowpilots.com/
 
 ## Usage
+  
+  You can install the latest version via npm:
+  
+    $ npm install mobile-monkeypatches
+
 
   For the Node.js server-side fixes, simply require the module:
 
