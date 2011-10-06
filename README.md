@@ -4,20 +4,20 @@
 
   Developed by Flow Pilots: http://www.flowpilots.com/
 
-# Usage
+## Usage
 
   For the Node.js server-side fixes, simply require the module:
 
     require('mobile-monkeypatches');
 
-# Included fixes
-## Server-side (Node.js)
+## Included fixes
+### Server-side (Node.js)
 
   * A JSON serialization fix for mobile clients who don't understand ISO 8601 
 
   More to come!
 
-# License 
+## License 
 
     (The MIT License)
 
